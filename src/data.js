@@ -39,3 +39,38 @@ export const categories = [
     title: 'Pants',
   },
 ];
+
+export const popularProducts = [
+  {
+    id: 1,
+    img: 'assets/women.jpg',
+  },
+  {
+    id: 2,
+    img: 'assets/women.jpg',
+  },
+  {
+    id: 3,
+    img: 'assets/women.jpg',
+  },
+  {
+    id: 4,
+    img: 'assets/women.jpg',
+  },
+  {
+    id: 5,
+    img: 'assets/women.jpg',
+  },
+  {
+    id: 6,
+    img: 'assets/women.jpg',
+  },
+  {
+    id: 7,
+    img: 'assets/women.jpg',
+  },
+  {
+    id: 8,
+    img: 'assets/women.jpg',
+  },
+];
