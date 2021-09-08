@@ -4,21 +4,21 @@ export const sliderItems = [
     img: 'assets/frontwomen.jpg',
     title: 'Summer Sale',
     desc: 'Take 30% off your PURCHASE!',
-    bg: 'f5fbfd',
+    bg: 'f6efe6',
   },
   {
     id: 2,
     img: 'assets/denim.jpg',
     title: 'Denim for Days',
     desc: 'Find your favorite Levis shorts!',
-    bg: 'c7f4f4',
+    bg: 'f5fbfd',
   },
   {
     id: 3,
     img: 'assets/access.jpg',
     title: 'Accessories',
     desc: 'Complete your outfit with some bling!',
-    bg: 'f5fbfd',
+    bg: 'f6efe6',
   },
 ];
 
