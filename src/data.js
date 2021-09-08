@@ -1,76 +1,76 @@
 export const sliderItems = [
   {
     id: 1,
-    img: 'assets/women.jpg',
+    img: 'assets/frontwomen.jpg',
     title: 'Summer Sale',
-    desc: '30% off your PURCHASE!',
-    bg: 'f5fafd',
+    desc: 'Take 30% off your PURCHASE!',
+    bg: 'f5fbfd',
   },
   {
     id: 2,
-    img: 'assets/women.jpg',
-    title: 'Winter Sale',
-    desc: '30% off your PURCHASE!',
-    bg: 'fcf1ed',
+    img: 'assets/denim.jpg',
+    title: 'Denim for Days',
+    desc: 'Find your favorite Levis shorts!',
+    bg: 'c7f4f4',
   },
   {
     id: 3,
-    img: 'assets/women.jpg',
-    title: 'Spring Sale',
-    desc: '30% off your PURCHASE!',
-    bg: 'fafdf5',
+    img: 'assets/access.jpg',
+    title: 'Accessories',
+    desc: 'Complete your outfit with some bling!',
+    bg: 'f5fbfd',
   },
 ];
 
 export const categories = [
   {
     id: 1,
-    img: 'assets/women.jpg',
-    title: 'Outerwear',
+    img: 'assets/dress.jpg',
+    title: 'Dresses',
   },
   {
     id: 2,
-    img: 'assets/women.jpg',
-    title: 'Sweaters',
+    img: 'assets/sandals.jpg',
+    title: 'Sandals',
   },
   {
     id: 3,
-    img: 'assets/women.jpg',
-    title: 'Pants',
+    img: 'assets/swimwear.jpg',
+    title: 'Swimwear',
   },
 ];
 
 export const popularProducts = [
   {
     id: 1,
-    img: 'assets/women.jpg',
+    img: 'assets/p1.jpg',
   },
   {
     id: 2,
-    img: 'assets/women.jpg',
+    img: 'assets/p2.jpg',
   },
   {
     id: 3,
-    img: 'assets/women.jpg',
+    img: 'assets/p3.jpg',
   },
   {
     id: 4,
-    img: 'assets/women.jpg',
+    img: 'assets/p4.jpg',
   },
   {
     id: 5,
-    img: 'assets/women.jpg',
+    img: 'assets/p5.jpg',
   },
   {
     id: 6,
-    img: 'assets/women.jpg',
+    img: 'assets/p6.jpg',
   },
   {
     id: 7,
-    img: 'assets/women.jpg',
+    img: 'assets/p7.jpg',
   },
   {
     id: 8,
-    img: 'assets/women.jpg',
+    img: 'assets/p8.jpg',
   },
 ];

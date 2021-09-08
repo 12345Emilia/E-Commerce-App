@@ -67,6 +67,7 @@ const Title = styled.h1`
   font-size: 70px;
 `;
 const Desc = styled.p`
+  width: 75%;
   margin: 50px 0px;
   font-size: 20px;
   font-weight: 500;
@@ -75,7 +76,7 @@ const Desc = styled.p`
 const Button = styled.button`
   padding: 10px;
   font-size: 20px;
-  background-color: transparent;
+  background-color: #8dd0d0;
   cursor: pointer;
 `;
 
