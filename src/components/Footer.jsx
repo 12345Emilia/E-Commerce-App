@@ -79,7 +79,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>EJA.</Logo>
+        <Logo>Little Lady Boutique</Logo>
         <Desc>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus
           quis atque vitae minima nulla amet, exercitationem eius architecto
