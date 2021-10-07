@@ -78,7 +78,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>EJA.</Logo>
+          <Logo>Little Lady Boutique</Logo>
         </Center>
         <Right>
           <MenuItem>Register</MenuItem>
